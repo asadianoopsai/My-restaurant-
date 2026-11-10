@@ -1,0 +1,6 @@
+{
+  "name": "RestoFlow - Smart Restaurant Ordering, Reservation & Pickup Platform",
+  "description": "Multi-tenant restaurant management SaaS with QR table ordering, advance dine-later reservations, takeaway parcel pickup codes, real-time kitchen tracking, and digital billing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
